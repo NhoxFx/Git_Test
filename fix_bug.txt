@@ -1,1 +1,2 @@
 File fix_bug.txt nằm ở nhánh fix_bug
+Line 2
